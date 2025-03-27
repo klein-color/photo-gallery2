@@ -1,4 +1,4 @@
-package io.ionic.starter;
+package demo.klein.app;
 
 import com.getcapacitor.BridgeActivity;
 
